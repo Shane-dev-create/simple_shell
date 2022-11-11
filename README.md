@@ -36,7 +36,7 @@ Format, see Docker
 
 ## Description
 
-simple_shell is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.  
+<b>simple_shell</b> is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.  
 The goal is to replicate the workings of the standard UNIX command line interpreter as best we can.  
 
 [Back To The Top](#simple_shell)
@@ -57,8 +57,8 @@ Resources and course material provided by ALX SE
 ---
 
 ## Authors
-Gilbert Segakweng  
-Kim Martin
+👨🏽‍💻 Gilbert Segakweng  
+👩🏽‍💻 Kim Martin
 
 - Twitter - [@shanespeare01](https://twitter.com/shanespeare01)
 
