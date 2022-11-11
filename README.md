@@ -9,7 +9,7 @@
 
 ### Table of Contents
 
-- [General Project requirements](#general project requirements)
+- [General Project Requirements](#general project requirements)
 - [Description](#desciption)
 - [References](#references)
 - [Authors](#authors)
@@ -41,7 +41,7 @@ The goal is to replicate the workings of the standard UNIX command line interpre
 
 #### Technologies
 
--C programming language
+-C programming language  
 -Shell scripting
 
 [Back To The Top](#simple_shell)
