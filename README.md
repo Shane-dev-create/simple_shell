@@ -57,8 +57,8 @@ Resources and course material provided by ALX SE
 ---
 
 ## Authors
-👨🏽‍💻 Gilbert Segakweng  
-👩🏽‍💻 Kim Martin
+👨🏽‍💻 Gilbert Segakweng ![Shane-dev-create](https://github.com/Shane-dev-create)
+👩🏽‍💻 Kim Martin ![Martian66](https://github.com/Martian66)
 
 - Twitter - [@shanespeare01](https://twitter.com/shanespeare01)
 
