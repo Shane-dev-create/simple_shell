@@ -44,7 +44,7 @@ The goal is to replicate the workings of the standard UNIX command line interpre
 #### Technologies
 
 - C programming language  
-- Shell scripting
+- Betty Linter
 
 [Back To The Top](#simple_shell)
 
