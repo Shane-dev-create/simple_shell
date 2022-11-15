@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg" alt="Project Image" width="750" height="450">
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg" alt="Project Image" width="800" height="450" align="center">
 
 
 ---
