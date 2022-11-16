@@ -11,6 +11,7 @@
 
 - [General](#general)
 - [Description](#description)
+- [Compile](#compile)
 - [References](#references)
 - [Authors](#authors)
 - [Technologies](#technologies)
@@ -38,6 +39,12 @@ Format, see Docker
 
 <b>simple_shell</b> is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.  
 The goal is to replicate the workings of the standard UNIX command line interpreter as best we can.  
+
+[Back To The Top](#simple_shell)
+
+## Compile
+### To compile use the following command:  
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh  
 
 [Back To The Top](#simple_shell)
 
