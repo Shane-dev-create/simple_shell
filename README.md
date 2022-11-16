@@ -2,7 +2,7 @@
 
 ---
 
-![Project Image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg" alt="Project Image" width="800" height="450" align="center">
 
 
 ---
@@ -44,7 +44,7 @@ The goal is to replicate the workings of the standard UNIX command line interpre
 #### Technologies
 
 - C programming language  
-- Shell scripting
+- Betty Linter
 
 [Back To The Top](#simple_shell)
 
