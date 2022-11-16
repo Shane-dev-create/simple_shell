@@ -56,7 +56,6 @@ int _mycd(info_t *info)
 		else
 			chdir_ret = chdir(dir);
 	}
-
 	else if (_strcmp(info->argv[1], "-") == 0)
 	{
 		if (!_getenv(info, "OLDPWD="))
@@ -76,7 +75,6 @@ int _mycd(info_t *info)
 		print_error(info, "can't cd to ");
 		_eputs(info->argv[1]), _eputchar('\n');
 	}
-
 	else
 	{
 		_setenv(info, "OLDPWD", _getenv(info, "PWD="));
