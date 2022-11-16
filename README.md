@@ -52,7 +52,7 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 - C programming language  
 - Betty Linter
-
+- Shell Scripting
 [Back To The Top](#simple_shell)
 
 ---
